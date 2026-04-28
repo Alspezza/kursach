@@ -1,0 +1,8 @@
+﻿  kursach_console.cpp
+S:\students\GR_88\Специан Захар\С++\kursach_console\kursach_console\user.h(69,29): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+S:\students\GR_88\Специан Захар\С++\kursach_console\kursach_console\kursach_console.cpp(78,45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+S:\students\GR_88\Специан Захар\С++\kursach_console\kursach_console\kursach_console.cpp(108,35): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+S:\students\GR_88\Специан Захар\С++\kursach_console\kursach_console\kursach_console.cpp(110,34): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+S:\students\GR_88\Специан Захар\С++\kursach_console\kursach_console\func.h(43,1): warning C4715: findGameById: значение возвращается не при всех путях выполнения
+S:\students\GR_88\Специан Захар\С++\kursach_console\kursach_console\user.h(54,1): warning C4715: User::findUser: значение возвращается не при всех путях выполнения
+  kursach_console.vcxproj -> S:\students\GR_88\Специан Захар\С++\kursach_console\x64\Debug\kursach_console.exe
